@@ -12,7 +12,7 @@ body {
 }
 
 .jumbotron {
-  background-color: #167c80;
+  background-color: #58A9D6;
   color: white;
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
@@ -51,7 +51,7 @@ a:hover {
 }
 
 .card-title a:hover {
-  color: #167c80 !important;
+  color: #58A9D6 !important;
 }
 
 .card h6 {
@@ -92,16 +92,16 @@ a:hover {
 }
 
 .navbar-brand-img img {
-  height: 20px;
+  height: 35px;
   margin-bottom: 2px;
 }
 
 .icon-bar {
-  color: #167c80;
+  color: #58A9D6;
 }
 
 .btn-white {
-  color: #167c80 !important;
+  color: #58A9D6 !important;
 }
 
 .card {
