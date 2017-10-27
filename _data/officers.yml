@@ -1,0 +1,171 @@
+---
+- name: Current Officers <br> 2017 - 2018
+  data:
+  - name: Pranav Salunke
+    position: Chair
+    email: pmsalunk@ucsc.edu
+  - name: Kaio Barbosa
+    position: Vice Chair
+    email: ksbarbos@ucsc.edu
+  - name: Jared Penner
+    position: Treasurer
+    email: jlpenner@ucsc.edu
+  - name: Richard Franklin
+    position: Webmaster
+    email: rsfrankl@ucsc.edu
+  - name: Jesse Chan
+    position: Secretary
+    email: jsc@ucsc.edu
+  - name: Nimesh Poudel
+    position: Fundraising Officer
+    email: npoudel@ucsc.edu
+- name: Past Officers <br> 2016 - 2017
+  data:
+  - name: Anshika Kumar
+    position: Chair
+    email: 	ankumar@ucsc.edu
+  - name: Aishwarya Thakur
+    position: Vice Chair
+    email: athakur@ucsc.edu
+  - name: Jared Penner
+    position: Treasurer
+    email: jlpenner@ucsc.edu
+  - name: Sanchit Sinha
+    position: Secretary
+    email: sasinha@ucsc.edu
+  - name: Pranav Salunke
+    position: Webmaster
+    email: pmsalunk@ucsc.edu
+  - name: Kaio Barbosa
+    position: Corporate Relations
+    email: ksbarbos@ucsc.edu
+  - name: Dustin Palea
+    position: Historian
+    email: dpalea@ucsc.edu
+- name: 2015 - 2016
+  data:
+  - name: Venkata Karthik Thota
+    position: Chair
+    email: vthota@ucsc.edu
+  - name: Loren Colcol
+    position: Vice Chair
+    email: lcolcol@ucsc.edu
+  - name: Justin Barros
+    position: Treasurer
+    email: jbarros@ucsc.edu
+  - name: Anshika Kumar
+    position: Secretary
+    email: ankumar@ucsc.edu
+  - name: Aishwarya Thakur
+    position: Webmaster
+    email: athakur@ucsc.edu
+  - name: Shravya Neeruganti
+    position: Corporate Relations
+    email: sneeruga@ucsc.edu
+- name: 2014 - 2015
+  data:
+  - name: Allen Liou
+    position: Chair
+    email: aliou4@ucsc.edu
+  - name: Venkata Karthik Thota
+    position: Vice Chair
+    email: vthota@ucsc.edu
+  - name: Loren Colcol
+    position: Treasurer
+    email: lcolcol@ucsc.edu
+  - name: Justin Barros
+    position: Secretary
+    email: jbarros@ucsc.edu
+  - name: Anshika Kumar
+    position: Webmaster
+    email: ankumar@ucsc.edu
+- name: 2013 - 2014
+  data:
+  - name: Brandon Rullamas
+    position: Chair
+    email: brullama@ucsc.edu
+  - name: Brittany Arthur
+    position: Vice Chair
+    email: bharthur@ucsc.edu
+  - name: Loren Colcol
+    position: Treasurer
+    email: lcolcol@ucsc.edu
+  - name: Allen Liou
+    position: Secretary
+    email: aliou4@ucsc.edu
+  - name: Karthik Thota
+    position: Webmaster
+    email: vthota@ucsc
+- name: 2012 - 2013 (Spring)
+  data:
+  - name: Jared Mavis
+    position: Chair
+    email: jmavis@ucsc.edu
+  - name: Sam Wing
+    position: Treasurer
+    email: swing@ucsc.edu
+  - name: Joe Rowley
+    position: Secretary
+    email: jrowley@ucsc.edu
+  - name: Daniel Rosenthal
+    position: Webmaster
+    email: danielr@soe.ucsc.edu
+- name: 2012 - 2013 (Fall, Winter)
+  data:
+  - name: Tanmayi Sai
+    position: Chair
+    email: tsai1@ucsc.edu
+  - name: Jared Mavis
+    position: Vice Chair
+    email: jmavis@ucsc.edu
+  - name: Sam Wing
+    position: Treasurer
+    email: swing@ucsc.edu
+  - name: Joe Rowley
+    position: Secretary
+    email: jrowley@ucsc.edu
+  - name: Daniel Rosenthal
+    position: Webmaster
+    email: danielr@soe.ucsc.edu
+- name: 2011 - 2012
+  data:
+  - name: Michael Wilson
+    position: Chair
+    email: mijowils@ucsc.edu
+  - name: Ben Chow
+    position: Vice Chair
+    email: bchow@ucsc.edu
+  - name: Sam Wing
+    position: Treasurer
+    email: swing@ucsc.edu
+  - name: Andy Nguyen
+    position: Secretary
+    email: anhnguye@ucsc.edu
+  - name: Daniel Rosenthal
+    position: Webmaster
+    email: danielr@soe.ucsc.edu
+- name: 2010 - 2011
+  data:
+  - name: Will Crawford
+    position: Chair
+    email: wacrawfo@ucsc.edu
+  - name: Ben Smith
+    position: Treasurer
+    email: bjsmith@ucsc.edu
+  - name: Michael Wilson
+    position: Secretary / Webmaster
+    email: mijowils@ucsc.edu
+- name: 2009 - 2010
+  data:
+  - name: Michael Wilson
+    position: Chair
+    email: mijowils@ucsc.edu
+  - name: Kevin Ip
+    position: Vice Chair
+    email: kip@ucsc.edu
+  - name: Ben Smith
+    position: Treasurer
+    email: bjsmith@ucsc.edu
+  - name: Nitish Padgaonkar
+    position: Secretary / Webmaster
+    email: nitishp@ucsc.edu

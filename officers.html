@@ -1,0 +1,35 @@
+---
+layout: default
+title: Officers
+permalink: /officers/
+---
+
+<div class="jumbotron">
+  <div class="container">
+    <h1>Officers</h1>
+    <p>Meet leadership of ACM at UC Santa Cruz</p>
+  </div>
+</div>
+<div class="container">
+{% for section in site.data.officers %}
+  <h2>{{ section.name }}</h2>
+  <div class="officers_wrapper">
+    <div class="officers_section">
+      <div class="officers_header">
+      </div>
+      <div class="row">
+      {% for item in section.data %}
+        <div class="col-xs-6">
+          <div class="officers_item">
+            <h3>{{ item.name }}</h3>
+            <p>{{ item.position }}</p>
+            <p><a href="mailto:{{ item.email }}">{{ item.email }}</a></p>
+          </div>
+        </div>
+      {% endfor %}
+      </div>
+    </div>
+  </div><br />
+{% endfor %}
+</div>
+<!-- Some parts of the text on this page are taken from the CyanogenMod Project. Licensed under Creative Commons Share Alike 3.0 -->
