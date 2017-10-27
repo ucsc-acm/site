@@ -8,6 +8,8 @@ name: ACM @ UCSC
 # Short bio or description (displayed in the header)
 description: ACM at UC Santa Cruz
 
+# Slogan
+slogan: "Learning Engineering? We got you covered!"
 
 #
 # Flags below are optional
