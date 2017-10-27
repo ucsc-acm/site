@@ -8,6 +8,7 @@ permalink: /officers/
   <div class="container">
     <h1>Officers</h1>
     <p>Meet leadership of ACM at UC Santa Cruz</p>
+    <p>Click images to learn more about us :D</p>
   </div>
 </div>
 <div class="container">
@@ -21,10 +22,9 @@ permalink: /officers/
       {% for item in section.data %}
         <div class="col-xs-6">
           <div class="officers_item">
-            {% if item.page == null %}
-              <h3>{{ item.name }}</h3>
-            {% else %}
-              <h3><a href="{{site.baseurl}}/officers/{{item.page}}">{{item.name}}</a></h3>
+            <h3>{{ item.name }}</h3>
+            {% if item.page != null %}
+              <a href="{{site.baseurl}}/officers/{{item.page}}"><img src="{{site.baseurl}}/officers/{{item.page}}/photo.png" alt="{{item.name}}" style="width:150px;height:175px;"></a>
             {% endif %}
             <p>{{ item.position }}</p>
             <p><a href="mailto:{{ item.email }}">{{ item.email }}</a></p>
