@@ -21,7 +21,11 @@ permalink: /officers/
       {% for item in section.data %}
         <div class="col-xs-6">
           <div class="officers_item">
-            <h3>{{ item.name }}</h3>
+            {% if item.page == null %}
+              <h3>{{ item.name }}</h3>
+            {% else %}
+              <h3><a href="{{site.baseurl}}/officers/{{item.page}}">{{item.name}}</a></h3>
+            {% endif %}
             <p>{{ item.position }}</p>
             <p><a href="mailto:{{ item.email }}">{{ item.email }}</a></p>
           </div>
