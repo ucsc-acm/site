@@ -4,15 +4,19 @@
   - name: Pranav Salunke
     position: Chair
     email: pmsalunk@ucsc.edu
+    page: pmsalunk
   - name: Kaio Barbosa
     position: Vice Chair
     email: ksbarbos@ucsc.edu
+    page: kaio
   - name: Jared Penner
     position: Treasurer
     email: jlpenner@ucsc.edu
+    page: jlpenner
   - name: Richard Franklin
     position: Webmaster
     email: rsfrankl@ucsc.edu
+    page: samf
   - name: Jesse Chan
     position: Secretary
     email: jsc@ucsc.edu
@@ -20,11 +24,12 @@
   - name: Nimesh Poudel
     position: Fundraising Officer
     email: npoudel@ucsc.edu
+    page: npoudel
 - name: Past Officers <br> 2016 - 2017
   data:
   - name: Anshika Kumar
     position: Chair
-    email: 	ankumar@ucsc.edu
+    email: ankumar@ucsc.edu
   - name: Aishwarya Thakur
     position: Vice Chair
     email: athakur@ucsc.edu
