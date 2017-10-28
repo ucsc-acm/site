@@ -1,6 +1,18 @@
+---
+layout: page
+title: Copyright
+permalink: /copyright/
+---
+
+## Website
+
 The MIT License (MIT)
 
 Copyright (c) 2015 Barry Clark
+
+Copyright (c) 2016 The LineageOS Project
+
+Copyright (c) 2017 Association for Computing Machinery at UC Santa Cruz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
