@@ -4,7 +4,20 @@ title: About
 permalink: /about/
 ---
 
-## [Get Involved!]({{ site.baseurl }}/getinvolved)
+<div class="row">
+  <div class="col-xs-6 col-sm-4 col-md-3">
+    <a class="btn btn-white" href="{{ site.baseurl }}/officers"><i class="material-icons">&#xE7FB;</i> Officers</a>
+  </div>
+  <div class="col-xs-6 col-sm-4 col-md-3">
+    <a class="btn btn-white" href="{{ site.baseurl }}/events"><i class="material-icons">&#xE878;</i> Events</a>
+  </div>
+  <div class="col-xs-6 col-sm-4 col-md-3">
+    <a class="btn btn-white" href="{{ site.baseurl }}/sponsors"><i class="material-icons">&#xE8DC;</i> Sponsors</a>
+  </div>
+  <div class="col-xs-6 col-sm-4 col-md-3">
+    <a class="btn btn-white" href="{{ site.baseurl }}/getinvolved"><i class="material-icons">&#xE7F0;</i> Join us!</a>
+  </div>
+</div>
 
 ### **ACM** is short for **Association for Computing Machinery**, and is a worldwide professional organization for **computer scientists** and others in **computing-related disciplines**.
 

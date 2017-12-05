@@ -4,26 +4,14 @@ title: Get Involved
 permalink: /getinvolved/
 ---
 
-### Join our [**Slack**](https://slack.com/) and chat with us
+### **Join** our [Slack](https://slack.com/)
 
-#### [ucsc-acm.slack.com/signup](https://ucsc-acm.slack.com/signup)
+<a class="btn btn-white" href="https://ucsc-acm.slack.com/signup" target="_blank"><i class="fa fa-slack fa-fw" aria-hidden="true"></i></a>
 
-<br>
+### **Join** our [Facebook](https://www.facebook.com/) group
 
-### Submit **sign-up** form
+<a class="btn btn-white" href="https://www.facebook.com/groups/103164379724503" target="_blank"><i class="fa fa-facebook fa-fw" aria-hidden="true"></i></a>
 
-#### TBD
+### **Go** to our <a class="btn btn-white" href="{{ site.baseurl }}/events"><i class="material-icons">&#xE878;</i> Events</a>
 
-<br>
-
-### Join our [**Facebook**](https://www.facebook.com/) group
-
-#### [facebook.com/groups/103164379724503](https://www.facebook.com/groups/103164379724503)
-
-<br>
-
-### Go to our **meeting**
-
-#### **Once every 2 weeks** ACM meets to discuss upcoming events and hear from its members. Presentations on challenging **programming problems** and topics of **Computer Science** are presented at the start of each meeting for members to solve or discuss.
-
-#### TBD (calender)
+### **Contact** our <a class="btn btn-white" href="{{ site.baseurl }}/officers"><i class="material-icons">&#xE7FB;</i> Officers</a>

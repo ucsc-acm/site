@@ -1692,7 +1692,8 @@ legend {
   .navbar .navbar-default .navbar-toggle,
   .navbar .navbar-inverse .navbar-toggle {
     border-color: transparent; }
-  .navbar .navbar-collapse,
+  .navbar .navbar-collapse {
+    max-height: 500px; }
   .navbar .navbar-form {
     border-top: none;
     box-shadow: none; }
