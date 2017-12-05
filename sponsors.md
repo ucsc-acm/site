@@ -7,6 +7,7 @@ permalink: /sponsors/
 ### Thanks to all sponsors for helping support our programs
 
 <a href="https://www.soe.ucsc.edu"><img src="https://www.soe.ucsc.edu/sites/all/themes/bsoev3/logo.png" width="256" alt="BSOE"></a><br>
+<a href="https://crown.ucsc.edu"><img src="https://crown.ucsc.edu/activities/images/css_banner.jpg" width="256" alt="CSS"></a><br>
 
 ### Corporate Sponsors:
 
