@@ -27,3 +27,7 @@ We will periodically be holding weekend **workshops** and **Code-A-Thons** to wo
 * iOS/ android app builinding
 
 **Food, people, and fun will be available. Always hosted enthusiatically by ACM!**
+
+## Special Events
+
+For HackACM, click [here](/hackacm).

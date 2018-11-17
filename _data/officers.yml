@@ -1,5 +1,31 @@
 ---
-- name: Current Officers <br> 2017 - 2018
+- name: Current Officers <br> 2018 - 2019
+  data:
+  - name: Pranav Salunke
+    position: Chair
+    email: pmsalunk@ucsc.edu
+    page: pmsalunk
+  - name: Nimesh Poudel
+    position: Fundraising Officer
+    email: npoudel@ucsc.edu
+    page: npoudel
+  - name: Jared Penner
+    position: Treasurer
+    email: jlpenner@ucsc.edu
+    page: jlpenner
+  - name: Jesse Chan
+    position: Secretary
+    email: jsc@ucsc.edu
+    page: jesec
+  - name: Richard Franklin
+    position: Webmaster
+    email: rsfrankl@ucsc.edu
+    page: samf
+  - name: Adnan Yunus
+    position: Outreach Officer
+    email: ayunus@ucsc.edu
+    page: adnan
+- name: Past Officers <br> 2017 - 2018
   data:
   - name: Pranav Salunke
     position: Chair
@@ -25,7 +51,7 @@
     position: Fundraising Officer
     email: npoudel@ucsc.edu
     page: npoudel
-- name: Past Officers <br> 2016 - 2017
+- name: 2016 - 2017
   data:
   - name: Anshika Kumar
     position: Chair
